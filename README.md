@@ -1,2 +1,2 @@
 # dominando-arrays
-Curso para estudo de dominação de arrays em javascript
+Curso para estudo de dominação de arrays em javascript - subindo com HTTPS
